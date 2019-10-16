@@ -16,5 +16,9 @@ The extracted metrics are  relative to components and to computational concepts 
  | Nr. of components by functionality | User interface, Media (sound is disregarded), Drawing, Sensors, Social, Storage, Connectivity) |
  | TNC | Total number of components: sum of all the values obtained for each component type  |
  | NOUB | Number of unique blocks |
- | --- | --- |
+
+### Computational Concepts (CC) blocks 
+Six types of CC blocks are counted: procedure, variable, logic, loop, conditional and list. 
+
+
 
