@@ -18,7 +18,15 @@ The extracted metrics involve components and to computational concepts (CC) bloc
  | NOUB | Number of unique blocks |
 
 ### Computational Concepts (CC) blocks 
-Six types of CC blocks are counted: procedure, variable, logic, loop, conditional and list. 
+Six types of CC blocks are counted: procedure, variable, logic, loop, conditional and list.
 
+## How to execute it 
+
+The parser takes as input an AppInventor project file (`.aia`) and outputs a `.csv` file. 
+For example, for the December 2018 app of the month [Extremity](http://ai2.appinventor.mit.edu/?galleryId=5606663420772352), you would type in the command line 
+ 
+```
+py parse.py -f Extremity.aia 
+```
 
 
