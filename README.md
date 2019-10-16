@@ -1,6 +1,7 @@
 # AppInventor_Metrics_Analyzer
 Simple analyzer that extracts the most important metrics out of an AppInventor project.
 
+
 ## How it works
 
 The Python script uses a CSV file containing all the blocks and their relative information of an AppInventor project and extracts a set of metrics. 
@@ -20,6 +21,7 @@ The extracted metrics involve components and to computational concepts (CC) bloc
 ### Computational Concepts (CC) blocks 
 Six types of CC blocks are counted: procedure, variable, logic, loop, conditional and list.
 
+
 ## How to execute it 
 
 The parser takes as input an AppInventor project file (`.aia`) and outputs a `.csv` file. 
@@ -35,8 +37,10 @@ This command generates the `results.csv` file which can be used with the followi
 py analyzer.py 
 ```
 
+
 ## Future work 
 This metrics analyzer could be extended by adding functionlities to analyze code smells, complexity and size of AppInventor projects. 
+
 
 ## References 
 * [AppInventor](http://appinventor.mit.edu/explore/)
