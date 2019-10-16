@@ -44,4 +44,4 @@ This metrics analyzer could be extended by adding functionlities to analyze code
 
 ## References 
 * [AppInventor](http://appinventor.mit.edu/explore/)
-* [Riccardo Felluga's GitHub parser repository](https://github.com/riccardofelluga/AppInventor_Parser)
+* [Riccardo Felluga's GitHub repository](https://github.com/riccardofelluga/AppInventor_Parser)
